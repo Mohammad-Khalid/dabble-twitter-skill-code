@@ -1,0 +1,17 @@
+{
+  "name": "twitterpost",
+  "version": "1.0.0",
+  "description": "post twit on you twitter timeline through alexa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "josh skeen",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-app": "^2.3.2",
+    "lodash": "^4.3.0",
+    "request-promise": "^2.0.1",
+    "twit": "^2.2.3"
+  }
+}
